@@ -1,0 +1,11 @@
+# Host test build output
+software/build/
+*.o
+*.exe
+*.d
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
